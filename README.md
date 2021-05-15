@@ -1,3 +1,4 @@
-# Golang Learning Days
+# **Welcome to tutorials blogs**
 
-With learning golang everyday, I will be updating my learning in this repo.
+## **[Shell Scripting](shell_blog.md)**
+
