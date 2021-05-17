@@ -1,11 +1,8 @@
-# **Welcome to the Linux Shell edition of Dialy Blogs**
-
 <img src="assets/shell.jpg" width=100% height=50%>
 
 ##### Photo by <a href="https://unsplash.com/@hellomm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">xiaokang Zhang</a> on <a href="https://unsplash.com/s/photos/linux-shell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-<br />
-
+# **Welcome to the Linux Shell edition of Blogs**
 ### *"She sells seashells by the seashore..."*
 
 Ever heard of this tongue twister? Probably you would have. But don't worry, we are not going to learn about those kind of shells!
